@@ -1,0 +1,6 @@
+@GestorPro.API_HostAddress = http://localhost:5104
+
+GET {{GestorPro.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GestorPro.API/GestorPro.API.csproj" />
+  <Project Path="GestorPro.Application/GestorPro.Application.csproj" />
+  <Project Path="GestorPro.Core/GestorPro.Core.csproj" />
+  <Project Path="GestorPro.Infrastructure/GestorPro.Infrastructure.csproj" />
+</Solution>
